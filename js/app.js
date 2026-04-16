@@ -199,8 +199,8 @@ if (SPEED_MODE) {
 	DEBUG_FLOW = true;
 }
 
-const STATE_SYNC_ENDPOINT = "https://poker.jlpcy658.deno.net/state";
-const ACTION_SYNC_ENDPOINT = "https://poker.jlpcy658.deno.net/action";
+const STATE_SYNC_ENDPOINT = "https://poker-pr6dckyf7kn9.jlpcy658.deno.net/state";
+const ACTION_SYNC_ENDPOINT = "https://poker-pr6dckyf7kn9.jlpcy658.deno.net/action";
 let tableId = null;
 const STATE_SYNC_DELAY = 750;
 const ACTION_POLL_INTERVAL = 1000;
